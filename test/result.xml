@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="1" failures="0" skipped="0" tests="1" time="6.155" timestamp="2023-04-18T20:46:57.174108" hostname="SD-WIL6394-LT"><testcase classname="pytest" name="internal" time="0.000"><error message="internal error">Traceback (most recent call last):
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\main.py", line 270, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+                         ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\main.py", line 324, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_callers.py", line 60, in _multicall
+    return outcome.get_result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_result.py", line 60, in get_result
+    raise ex[1].with_traceback(ex[2])
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\main.py", line 349, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_callers.py", line 60, in _multicall
+    return outcome.get_result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_result.py", line 60, in get_result
+    raise ex[1].with_traceback(ex[2])
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\runner.py", line 112, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\runner.py", line 125, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\_pytest\runner.py", line 222, in call_and_report
+    report: TestReport = hook.pytest_runtest_makereport(item=item, call=call)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\naveen.kstb\AppData\Local\Programs\Python\Python311\Lib\site-packages\pluggy\_callers.py", line 55, in _multicall
+    gen.send(outcome)
+  File "C:\Users\naveen.kstb\PycharmProjects\PythonSelfFramework\test\conftest.py", line 52, in pytest_runtest_makereport
+    _capture_screenshot(file_name)
+  File "C:\Users\naveen.kstb\PycharmProjects\PythonSelfFramework\test\conftest.py", line 61, in _capture_screenshot
+    driver.get_screenshot_as_file(name)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get_screenshot_as_file'</error></testcase></testsuite></testsuites>

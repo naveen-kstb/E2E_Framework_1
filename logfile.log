@@ -1,0 +1,304 @@
+2023-04-04 17:28:13,359 :INFO :test_e2e :getting all the card titles
+2023-04-04 17:28:13,403 :INFO :test_e2e :iphone X
+2023-04-04 17:28:13,430 :INFO :test_e2e :Samsung Note 8
+2023-04-04 17:28:13,519 :INFO :test_e2e :Nokia Edge
+2023-04-04 17:28:13,552 :INFO :test_e2e :Blackberry
+2023-04-04 17:28:13,690 :INFO :test_e2e :Entering country name as ind
+2023-04-04 17:28:19,233 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-04 17:28:53,217 :INFO :test_e2e :getting all the card titles
+2023-04-04 17:28:53,270 :INFO :test_e2e :iphone X
+2023-04-04 17:28:53,297 :INFO :test_e2e :Samsung Note 8
+2023-04-04 17:28:53,407 :INFO :test_e2e :Nokia Edge
+2023-04-04 17:28:53,438 :INFO :test_e2e :Blackberry
+2023-04-04 17:28:53,598 :INFO :test_e2e :Entering country name as ind
+2023-04-04 17:28:59,157 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-04 20:46:33,134 :INFO :test_formSubmission :first name is Naveen
+2023-04-04 20:46:38,987 :INFO :test_formSubmission :first name is Saisha
+2023-04-04 20:46:38,987 :INFO :test_formSubmission :first name is Saisha
+2023-04-04 20:46:49,242 :INFO :test_e2e :getting all the card titles
+2023-04-04 20:46:49,266 :INFO :test_e2e :iphone X
+2023-04-04 20:46:49,282 :INFO :test_e2e :Samsung Note 8
+2023-04-04 20:46:49,343 :INFO :test_e2e :Nokia Edge
+2023-04-04 20:46:49,362 :INFO :test_e2e :Blackberry
+2023-04-04 20:46:49,442 :INFO :test_e2e :Entering country name as ind
+2023-04-04 20:46:54,788 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-04 20:58:34,359 :INFO :test_formSubmission :first name is Naveen
+2023-04-04 20:58:35,218 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-04 20:58:40,384 :INFO :test_formSubmission :gender is Male
+2023-04-04 20:58:40,542 :INFO :test_formSubmission :first name is Saisha
+2023-04-04 20:58:40,542 :INFO :test_formSubmission :first name is Saisha
+2023-04-04 20:58:40,733 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-04 20:58:40,733 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-04 20:58:45,911 :INFO :test_formSubmission :gender is Female
+2023-04-04 20:58:45,911 :INFO :test_formSubmission :gender is Female
+2023-04-04 20:58:51,557 :INFO :test_e2e :getting all the card titles
+2023-04-04 20:58:51,581 :INFO :test_e2e :iphone X
+2023-04-04 20:58:51,594 :INFO :test_e2e :Samsung Note 8
+2023-04-04 20:58:51,638 :INFO :test_e2e :Nokia Edge
+2023-04-04 20:58:51,652 :INFO :test_e2e :Blackberry
+2023-04-04 20:58:51,723 :INFO :test_e2e :Entering country name as ind
+2023-04-04 20:58:56,997 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 15:04:06,023 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 15:04:06,900 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:04:12,198 :INFO :test_formSubmission :gender is Male
+2023-04-05 15:04:14,087 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:04:14,087 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:04:20,751 :INFO :test_e2e :getting all the card titles
+2023-04-05 15:04:20,808 :INFO :test_e2e :iphone X
+2023-04-05 15:04:20,843 :INFO :test_e2e :Samsung Note 8
+2023-04-05 15:04:20,966 :INFO :test_e2e :Nokia Edge
+2023-04-05 15:04:20,998 :INFO :test_e2e :Blackberry
+2023-04-05 15:04:21,168 :INFO :test_e2e :Entering country name as ind
+2023-04-05 15:04:26,737 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 15:05:46,973 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 15:05:47,450 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:05:52,746 :INFO :test_formSubmission :gender is Male
+2023-04-05 15:05:53,094 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:05:53,094 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:05:53,475 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:05:53,475 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:05:58,819 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:05:58,819 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:06:03,328 :INFO :test_e2e :getting all the card titles
+2023-04-05 15:06:03,395 :INFO :test_e2e :iphone X
+2023-04-05 15:06:03,428 :INFO :test_e2e :Samsung Note 8
+2023-04-05 15:06:03,549 :INFO :test_e2e :Nokia Edge
+2023-04-05 15:06:03,581 :INFO :test_e2e :Blackberry
+2023-04-05 15:06:03,792 :INFO :test_e2e :Entering country name as ind
+2023-04-05 15:06:09,407 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 15:42:41,554 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 15:42:42,554 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:42:47,848 :INFO :test_formSubmission :gender is Male
+2023-04-05 15:42:51,797 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:42:51,797 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:43:14,300 :INFO :test_e2e :getting all the card titles
+2023-04-05 15:43:14,357 :INFO :test_e2e :iphone X
+2023-04-05 15:43:14,386 :INFO :test_e2e :Samsung Note 8
+2023-04-05 15:43:14,475 :INFO :test_e2e :Nokia Edge
+2023-04-05 15:43:14,513 :INFO :test_e2e :Blackberry
+2023-04-05 15:43:14,670 :INFO :test_e2e :Entering country name as ind
+2023-04-05 15:43:20,275 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 15:44:45,851 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 15:44:49,476 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:44:49,775 :INFO :test_formSubmission :gender is Male
+2023-04-05 15:44:50,105 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:44:50,105 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:44:52,845 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:44:52,845 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:44:53,202 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:44:53,202 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:44:57,465 :INFO :test_e2e :getting all the card titles
+2023-04-05 15:44:57,515 :INFO :test_e2e :iphone X
+2023-04-05 15:44:57,545 :INFO :test_e2e :Samsung Note 8
+2023-04-05 15:44:57,645 :INFO :test_e2e :Nokia Edge
+2023-04-05 15:44:57,677 :INFO :test_e2e :Blackberry
+2023-04-05 15:44:57,840 :INFO :test_e2e :Entering country name as ind
+2023-04-05 15:45:03,415 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 15:45:44,311 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 15:45:44,508 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:45:44,778 :INFO :test_formSubmission :gender is Male
+2023-04-05 15:45:45,060 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:45:45,060 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 15:45:45,226 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:45:45,226 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 15:45:45,473 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:45:45,473 :INFO :test_formSubmission :gender is Female
+2023-04-05 15:45:49,815 :INFO :test_e2e :getting all the card titles
+2023-04-05 15:45:49,859 :INFO :test_e2e :iphone X
+2023-04-05 15:45:49,888 :INFO :test_e2e :Samsung Note 8
+2023-04-05 15:45:49,978 :INFO :test_e2e :Nokia Edge
+2023-04-05 15:45:50,011 :INFO :test_e2e :Blackberry
+2023-04-05 15:45:50,162 :INFO :test_e2e :Entering country name as ind
+2023-04-05 15:45:55,741 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:13:19,223 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:13:19,920 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:13:19,920 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:14:19,182 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:14:19,400 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:14:19,666 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:14:19,946 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:14:19,946 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:14:20,080 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:14:20,080 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:14:20,300 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:14:20,300 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:14:25,569 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:14:25,621 :INFO :test_e2e :iphone X
+2023-04-05 16:14:25,652 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:14:25,747 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:14:25,781 :INFO :test_e2e :Blackberry
+2023-04-05 16:14:25,941 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:14:31,553 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:18:47,445 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:18:47,667 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:18:47,943 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:18:48,252 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:18:48,252 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:18:48,409 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:18:48,409 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:18:48,713 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:18:48,713 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:18:53,616 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:18:53,666 :INFO :test_e2e :iphone X
+2023-04-05 16:18:53,695 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:18:53,799 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:18:53,846 :INFO :test_e2e :Blackberry
+2023-04-05 16:18:54,055 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:18:59,683 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:19:11,724 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:19:11,942 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:19:12,220 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:19:12,523 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:19:12,523 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:19:12,663 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:19:12,663 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:19:12,902 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:19:12,902 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:19:19,160 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:19:19,214 :INFO :test_e2e :iphone X
+2023-04-05 16:19:19,249 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:19:19,354 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:19:19,391 :INFO :test_e2e :Blackberry
+2023-04-05 16:19:19,559 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:19:25,176 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:22:46,323 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:22:46,542 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:22:46,830 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:22:47,141 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:22:47,141 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:22:47,310 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:22:47,310 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:22:47,574 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:22:47,574 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:22:55,694 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:22:55,747 :INFO :test_e2e :iphone X
+2023-04-05 16:22:55,783 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:22:55,882 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:22:55,913 :INFO :test_e2e :Blackberry
+2023-04-05 16:22:56,071 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:23:01,668 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:24:22,535 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:24:22,734 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:24:23,002 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:24:23,303 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:24:23,303 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:24:23,447 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:24:23,447 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:24:23,687 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:24:23,687 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:24:28,612 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:24:28,660 :INFO :test_e2e :iphone X
+2023-04-05 16:24:28,688 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:24:28,776 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:24:28,820 :INFO :test_e2e :Blackberry
+2023-04-05 16:24:28,977 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:24:34,569 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:44:35,446 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:44:35,643 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:44:35,908 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:44:36,195 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:44:36,195 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:44:36,371 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:44:36,371 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:44:36,621 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:44:36,621 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:44:44,460 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:44:44,505 :INFO :test_e2e :iphone X
+2023-04-05 16:44:44,528 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:44:44,610 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:44:44,641 :INFO :test_e2e :Blackberry
+2023-04-05 16:44:44,769 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:44:50,339 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:47:51,926 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:47:52,163 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:47:52,452 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:47:52,718 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:47:52,718 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:47:52,865 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:47:52,865 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:47:53,113 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:47:53,113 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:48:00,390 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:48:00,446 :INFO :test_e2e :iphone X
+2023-04-05 16:48:00,472 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:48:00,568 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:48:00,602 :INFO :test_e2e :Blackberry
+2023-04-05 16:48:00,733 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:48:06,296 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:49:19,983 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:49:20,203 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:49:20,470 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:49:20,729 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:49:20,729 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:49:20,870 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:49:20,870 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:49:21,086 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:49:21,086 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:49:28,552 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:49:28,606 :INFO :test_e2e :iphone X
+2023-04-05 16:49:28,639 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:49:28,765 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:49:28,803 :INFO :test_e2e :Blackberry
+2023-04-05 16:49:28,998 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:49:34,631 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:52:01,742 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:52:01,955 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:52:02,249 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:52:02,548 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:52:02,548 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:52:02,687 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:52:02,687 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:52:02,934 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:52:02,934 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:52:07,700 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:52:07,755 :INFO :test_e2e :iphone X
+2023-04-05 16:52:07,789 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:52:07,907 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:52:07,946 :INFO :test_e2e :Blackberry
+2023-04-05 16:52:08,099 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:52:13,656 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-05 16:53:25,748 :INFO :test_formSubmission :first name is Naveen
+2023-04-05 16:53:26,006 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:53:26,369 :INFO :test_formSubmission :gender is Male
+2023-04-05 16:53:26,661 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:53:26,661 :INFO :test_formSubmission :first name is Saisha
+2023-04-05 16:53:26,820 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:53:26,820 :INFO :test_formSubmission :email is hello@gmail.com
+2023-04-05 16:53:27,132 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:53:27,132 :INFO :test_formSubmission :gender is Female
+2023-04-05 16:53:34,613 :INFO :test_e2e :getting all the card titles
+2023-04-05 16:53:34,663 :INFO :test_e2e :iphone X
+2023-04-05 16:53:34,693 :INFO :test_e2e :Samsung Note 8
+2023-04-05 16:53:34,763 :INFO :test_e2e :Nokia Edge
+2023-04-05 16:53:34,800 :INFO :test_e2e :Blackberry
+2023-04-05 16:53:34,925 :INFO :test_e2e :Entering country name as ind
+2023-04-05 16:53:40,481 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-07 12:53:16,774 :INFO :test_formSubmission :email is Hello@gmail.com
+2023-06-07 12:53:21,928 :INFO :test_formSubmission :gender is Male
+2023-06-07 12:53:28,586 :INFO :test_e2e :getting all the card titles
+2023-06-07 12:53:28,612 :INFO :test_e2e :iphone X
+2023-06-07 12:53:28,622 :INFO :test_e2e :Samsung Note 8
+2023-06-07 12:53:28,660 :INFO :test_e2e :Nokia Edge
+2023-06-07 12:53:28,669 :INFO :test_e2e :Blackberry
+2023-06-07 12:53:28,745 :INFO :test_e2e :Entering country name as ind
+2023-06-07 12:53:34,038 :INFO :test_e2e :Text received in aplication is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
